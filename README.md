@@ -1,5 +1,5 @@
 # 2D-Plotting-Library
-The goal of this repo is to build a 2D plotting library using OpenGL capable of creating all sorts of different kinds of plots useful to physicists and mathematicians. Here's a list of capabilities I hope to implement:
+The goal of this repo is to build a 2D plotting application using OpenGL capable of creating all sorts of different kinds of plots useful to physicists and mathematicians. Here's a list of capabilities I hope to implement:
 - vector field plotting
 - plotting scalar functions using color plots
 - plotting functions of x,y
